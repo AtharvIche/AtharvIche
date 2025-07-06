@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atharviche
+- 👋 Hi, I’m @AtharvIche
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning CSE
 - 💞️ I’m looking to collaborate on
